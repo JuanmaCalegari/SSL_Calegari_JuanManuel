@@ -1,0 +1,1 @@
+En este directorio, se encuentran los archivos correspondientes a mi primer programa en C.
